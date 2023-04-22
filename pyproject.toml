@@ -1,0 +1,27 @@
+[tool.pdm]
+
+[project]
+name = "nonebot-plugin-runcode"
+version = "0.0.1"
+description = "基于runoob.com的在线代码运行插件"
+authors = [
+    {name = "Yincmewy", email = "2025173673@qq.com"},
+]
+dependencies = [
+    "httpx>=0.24.0",
+    "nonebot>=1.9.1",
+]
+requires-python = ">=3.8"
+readme = "README.md"
+license = {text = "MIT"}
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+]
+[project.urls]
+Homepage = "https://github.com/Yincmewy/nonebot_plugin_runcode"
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
