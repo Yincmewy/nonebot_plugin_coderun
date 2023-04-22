@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# onebot_plugin_runcode
+# onebot_plugin_coderun
 基于runoob.com的在线代码运行插件
 
 </div>
