@@ -1,3 +1,4 @@
 nonebot2
+nonebot-adapter-onebot
 httpx
 setuptools
