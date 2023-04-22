@@ -1,5 +1,3 @@
-[tool.pdm]
-
 [project]
 name = "nonebot-plugin-coderun"
 version = "0.0.1"
@@ -7,7 +5,7 @@ description = "基于runoob.com的在线代码运行插件"
 authors = [
     {name = "Yincmewy", email = "2025173673@qq.com"},
 ]
-dependencies = ["httpx", "nonebot2", "setuptools"]
+dependencies = ["httpx", "nonebot2", "setuptools", "nonebot-adapter-onebot"]
 requires-python = ">=3.8"
 readme = "README.md"
 license = {text = "MIT"}

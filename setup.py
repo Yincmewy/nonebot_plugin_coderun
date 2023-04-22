@@ -11,7 +11,7 @@ setuptools.setup(
   description="基于runoob.com的在线代码运行插件",
   long_description=long_description,
   install_requires=[
-          'nonebot2', 'httpx', 'setuptools'
+          'nonebot2', 'nonebot-adapter-onebot', 'httpx', 'setuptools'
       ],
   long_description_content_type="text/markdown",
   url="https://github.com/Yincmewy/nonebot_plugin_coderun",
