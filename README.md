@@ -17,7 +17,7 @@
 
 ## 支持语言
 
-kotlin/java/lua/nodejs/go/Swift/rust/ruby/c#/c++/c/py/php
+kotlin/java/lua/nodejs/go/swift/rust/ruby/c#/c++/c/py/php
 
 ## TIPS
 暂不支持输入...待更新
