@@ -10,14 +10,25 @@
 </div>
 
 ## 指令
-```
-/run [目标语言]
-[具体代码]
-```
+| 命令 | 权限 |
+|:--------:| -------------:|
+| /run [目标语言] [具体代码] | 所有人 |
 
 ## 支持语言
 
-kotlin/java/lua/nodejs/go/swift/rust/ruby/c#/c++/c/py/php
+- kotlin
+- java
+- lua
+- nodejs
+- go
+- swift
+- rust
+- ruby
+- c#
+- c++
+- c
+- py
+- php
 
 ## TIPS
 暂不支持输入...待更新
