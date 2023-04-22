@@ -34,4 +34,4 @@
 暂不支持输入...待更新
 
 ## 使用截图
-![](pic.jpg)
+![](https://raw.githubusercontent.com/Yincmewy/nonebot_plugin_coderun/main/pic.jpg)
